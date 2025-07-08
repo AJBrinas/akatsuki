@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
   <br />
   <br />
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=drewbrinash&button_colour=40DCA5&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/drewbrinash)
