@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NEXT.JS 15
 - 🔭 Creating chatbot using FastAPI and NEXT.JS
 - 🔍 Studying cybersecurity practices,
+- 🔍 Studying C# in Visual Studio
 
 
 
   <br />
   <br />
-<a href="https://www.buymeacoffee.com/drewbrinash"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=drewbrinash&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="drewbrinash" data-color="#FF5F5F" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
