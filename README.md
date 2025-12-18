@@ -1,4 +1,4 @@
-## Hi there 👋, I am Andrew and I am a Full-Stack Developer and an Aspiring Cybersecurity Specialist. Help me reach my goal.
+## Hi there 👋, I am drew and I am a Full-Stack Developer and an Aspiring Cybersecurity Specialist. Help me reach my goal.
 
 <!--
 **AJBrinas/AJBrinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
